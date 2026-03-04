@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="modelguard",
+    name="modelguard-ai",
     version="0.1.0",
     author="Om Barde",
     author_email="bardeom6702@gmail.com",

@@ -7,11 +7,11 @@ setup(
     name="modelguard",
     version="0.1.0",
     author="Om Barde",
-    author_email="your@email.com",
+    author_email="bardeom6702@gmail.com",
     description="Git diff for neural networks — compare, debug, and track ML model changes",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/modelguard",
+    url="https://github.com/ombarde/modelguard",
     packages=find_packages(),
     include_package_data=True,
     package_data={
